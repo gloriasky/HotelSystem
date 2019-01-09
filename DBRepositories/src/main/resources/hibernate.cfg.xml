@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE hibernate-configuration SYSTEM "http://hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+    <session-factory>
+        <property name="connection.driver_class">com.mysql.cj.jdbc.Driver</property>
+        <property name="connection.url">jdbc:mysql://127.0.0.1:3306/hotel?serverTimezone=UTC&amp;useSSL=false&amp;allowPublicKeyRetrieval=true</property>
+        <property name="connection.username">admin</property>
+        <property name="connection.password">admin</property>
+        <property name="dialect">org.hibernate.dialect.MySQLDialect</property>
+        <property name="show_sql">true</property>
+        <property name="current_session_context_class">thread</property>
+        <property name="connection.pool_size">5</property>
+
+        <property name="hbm2ddl.auto">update</property>
+        <mapping class="ru.senla.training.model.Guest"/>
+        <mapping class="ru.senla.training.model.Room"/>
+        <mapping class="ru.senla.training.model.Service"/>
+        <mapping class="ru.senla.training.model.Record"/>
+    </session-factory>
+</hibernate-configuration>

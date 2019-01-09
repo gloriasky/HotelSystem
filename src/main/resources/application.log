@@ -1,0 +1,58 @@
+
+2018-10-19 15:39:46 ERROR [main]: java.lang.NullPointerExceptionERROR
+2018-10-19 15:40:39 ERROR [main]: java.lang.NullPointerExceptionERROR
+2018-10-19 16:28:34 ERROR [main]: java.lang.NullPointerExceptionERROR
+2018-10-25 10:42:55 DEBUG [main]: Logging Provider: org.jboss.logging.Log4jLoggerProviderDEBUG
+2018-10-25 10:42:55 DEBUG [main]: Adding Integrator [org.hibernate.cfg.beanvalidation.BeanValidationIntegrator].DEBUG
+2018-10-25 10:42:55 DEBUG [main]: Adding Integrator [org.hibernate.secure.spi.JaccIntegrator].DEBUG
+2018-10-25 10:42:55 DEBUG [main]: Adding Integrator [org.hibernate.cache.internal.CollectionCacheInvalidator].DEBUG
+2018-10-25 10:42:55 DEBUG [main]: Adding Integrator [org.hibernate.envers.boot.internal.EnversIntegrator].DEBUG
+2018-10-25 10:42:55 INFO  [main]: HHH000412: Hibernate Core {5.3.0.Final}INFO
+2018-10-25 10:42:55 INFO  [main]: HHH000206: hibernate.properties not foundINFO
+2018-10-25 10:42:56 DEBUG [main]: Interpreting public/system identifier : [null] - [http://hibernate.org/dtd/hibernate-configuration-3.0.dtd]DEBUG
+2018-10-25 10:42:57 DEBUG [main]: cfg.xml document did not define namespaces; wrapping in custom event reader to introduce namespace informationDEBUG
+2018-10-25 10:43:58 DEBUG [main]: Logging Provider: org.jboss.logging.Log4jLoggerProviderDEBUG
+2018-10-25 10:43:58 DEBUG [main]: Adding Integrator [org.hibernate.cfg.beanvalidation.BeanValidationIntegrator].DEBUG
+2018-10-25 10:43:58 DEBUG [main]: Adding Integrator [org.hibernate.secure.spi.JaccIntegrator].DEBUG
+2018-10-25 10:43:58 DEBUG [main]: Adding Integrator [org.hibernate.cache.internal.CollectionCacheInvalidator].DEBUG
+2018-10-25 10:43:58 DEBUG [main]: Adding Integrator [org.hibernate.envers.boot.internal.EnversIntegrator].DEBUG
+2018-10-25 10:43:58 INFO  [main]: HHH000412: Hibernate Core {5.3.0.Final}INFO
+2018-10-25 10:43:58 INFO  [main]: HHH000206: hibernate.properties not foundINFO
+2018-10-25 10:43:58 DEBUG [main]: Interpreting public/system identifier : [null] - [http://hibernate.org/dtd/hibernate-configuration-3.0.dtd]DEBUG
+2018-10-25 10:43:59 DEBUG [main]: cfg.xml document did not define namespaces; wrapping in custom event reader to introduce namespace informationDEBUG
+2018-10-25 12:19:06 DEBUG [main]: Logging Provider: org.jboss.logging.Log4jLoggerProviderDEBUG
+2018-10-25 12:19:06 DEBUG [main]: Adding Integrator [org.hibernate.cfg.beanvalidation.BeanValidationIntegrator].DEBUG
+2018-10-25 12:19:06 DEBUG [main]: Adding Integrator [org.hibernate.secure.spi.JaccIntegrator].DEBUG
+2018-10-25 12:19:06 DEBUG [main]: Adding Integrator [org.hibernate.cache.internal.CollectionCacheInvalidator].DEBUG
+2018-10-25 12:19:06 DEBUG [main]: Adding Integrator [org.hibernate.envers.boot.internal.EnversIntegrator].DEBUG
+2018-10-25 12:19:06 INFO  [main]: HHH000412: Hibernate Core {5.3.0.Final}INFO
+2018-10-25 12:19:06 INFO  [main]: HHH000206: hibernate.properties not foundINFO
+2018-10-25 12:19:07 DEBUG [main]: Interpreting public/system identifier : [null] - [http://hibernate.org/dtd/hibernate-configuration-3.0.dtd]DEBUG
+2018-10-25 12:19:08 DEBUG [main]: cfg.xml document did not define namespaces; wrapping in custom event reader to introduce namespace informationDEBUG
+2019-01-09 10:02:45 DEBUG [main]: Logging Provider: org.jboss.logging.Log4jLoggerProviderDEBUG
+2019-01-09 10:02:45 DEBUG [main]: Adding Integrator [org.hibernate.cfg.beanvalidation.BeanValidationIntegrator].DEBUG
+2019-01-09 10:02:45 DEBUG [main]: Adding Integrator [org.hibernate.secure.spi.JaccIntegrator].DEBUG
+2019-01-09 10:02:45 DEBUG [main]: Adding Integrator [org.hibernate.cache.internal.CollectionCacheInvalidator].DEBUG
+2019-01-09 10:02:45 DEBUG [main]: Adding Integrator [org.hibernate.envers.boot.internal.EnversIntegrator].DEBUG
+2019-01-09 10:02:45 INFO  [main]: HHH000412: Hibernate Core {5.3.0.Final}INFO
+2019-01-09 10:02:45 INFO  [main]: HHH000206: hibernate.properties not foundINFO
+2019-01-09 10:02:45 DEBUG [main]: Interpreting public/system identifier : [null] - [http://hibernate.org/dtd/hibernate-configuration-3.0.dtd]DEBUG
+2019-01-09 10:02:46 DEBUG [main]: cfg.xml document did not define namespaces; wrapping in custom event reader to introduce namespace informationDEBUG
+2019-01-09 10:14:48 DEBUG [main]: Logging Provider: org.jboss.logging.Log4jLoggerProviderDEBUG
+2019-01-09 10:14:48 DEBUG [main]: Adding Integrator [org.hibernate.cfg.beanvalidation.BeanValidationIntegrator].DEBUG
+2019-01-09 10:14:48 DEBUG [main]: Adding Integrator [org.hibernate.secure.spi.JaccIntegrator].DEBUG
+2019-01-09 10:14:48 DEBUG [main]: Adding Integrator [org.hibernate.cache.internal.CollectionCacheInvalidator].DEBUG
+2019-01-09 10:14:48 DEBUG [main]: Adding Integrator [org.hibernate.envers.boot.internal.EnversIntegrator].DEBUG
+2019-01-09 10:14:48 INFO  [main]: HHH000412: Hibernate Core {5.3.0.Final}INFO
+2019-01-09 10:14:48 INFO  [main]: HHH000206: hibernate.properties not foundINFO
+2019-01-09 10:14:48 DEBUG [main]: Interpreting public/system identifier : [null] - [http://hibernate.org/dtd/hibernate-configuration-3.0.dtd]DEBUG
+2019-01-09 10:14:49 DEBUG [main]: cfg.xml document did not define namespaces; wrapping in custom event reader to introduce namespace informationDEBUG
+2019-01-09 10:20:57 DEBUG [main]: Logging Provider: org.jboss.logging.Log4jLoggerProviderDEBUG
+2019-01-09 10:20:57 DEBUG [main]: Adding Integrator [org.hibernate.cfg.beanvalidation.BeanValidationIntegrator].DEBUG
+2019-01-09 10:20:57 DEBUG [main]: Adding Integrator [org.hibernate.secure.spi.JaccIntegrator].DEBUG
+2019-01-09 10:20:57 DEBUG [main]: Adding Integrator [org.hibernate.cache.internal.CollectionCacheInvalidator].DEBUG
+2019-01-09 10:20:58 INFO  [main]: HHH000412: Hibernate Core {5.0.3.Final}INFO
+2019-01-09 10:20:58 INFO  [main]: HHH000206: hibernate.properties not foundINFO
+2019-01-09 10:20:58 INFO  [main]: HHH000021: Bytecode provider name : javassistINFO
+2019-01-09 10:20:58 DEBUG [main]: Interpreting public/system identifier : [null] - [http://hibernate.org/dtd/hibernate-configuration-3.0.dtd]DEBUG
+2019-01-09 10:20:58 DEBUG [main]: cfg.xml document did not define namespaces; wrapping in custom event reader to introduce namespace informationDEBUG
